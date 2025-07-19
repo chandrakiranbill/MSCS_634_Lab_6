@@ -72,5 +72,3 @@ Visualization through **Heatmaps** and **Scatter Plots** was used to help interp
 - Strong associations among organic fruits suggest bundling or marketing strategies could leverage these insights.
 
 ---
-
-
